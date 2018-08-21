@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/proxy_init:1.0.0
+FROM gcr.io/kubernetes-helm/tiller:v2.9.1
